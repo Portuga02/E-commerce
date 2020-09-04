@@ -1,8 +1,8 @@
 {
-    "name": "sPortuga02/ecommerce",
+    "name": "portuga/ecommerce",
     "authors": [
         {
-            "name": "Sávio Gomes da Silva/Hcode Treinamentos",
+            "name": "Savio Gomes da Silva / Hcode Treinamentos",
             "email": "suporte@hcode.com.br"
         }
     ],
@@ -13,7 +13,7 @@
     },
     "autoload": {
         "psr-4": {
-            "": "vendor\\hcodebr\\php-classes\\src"
+            "Hcode\\": "vendor\\hcodebr\\php-classes\\src"
         }
     }
 }
