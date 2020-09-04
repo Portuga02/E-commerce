@@ -1,8 +1,8 @@
 [
     {
         "name": "phpmailer/phpmailer",
-        "version": "v5.2.22",
-        "version_normalized": "5.2.22.0",
+        "version": "v6.1.6",
+        "version_normalized": "6.1.6.0",
         "source": {
             "type": "git",
             "url": "https://github.com/PHPMailer/PHPMailer.git",
