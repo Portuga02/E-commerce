@@ -12,8 +12,10 @@ $app->get('/', function () {
    
 	$results = $sql->select("SELECT * FROM tb_users");
 	echo "<pre>"."<br>";
-	var_dump( json_encode($results));
+	//var_dump( json_encode($results));
 	echo "</pre>";
+
+ echo "funcionando?";
 });
 
 $app->run();
