@@ -21,8 +21,8 @@ class page
 			$opts
 		);
 		$config = array(
-			"tpl_dir" => $_SERVER["DOCUMENT_ROOT"] . "/views",
-			"cache_dir" => $_SERVER["DOCUMENT_ROOT"] . "/views-cache/",
+			"tpl_dir" => $_SERVER["DOCUMENT_ROOT"] . "/e-commerce/views/",
+			"cache_dir" => $_SERVER["DOCUMENT_ROOT"] . "/e-commerce/views-cache/",
 			"debug" => true,
 		);
 
