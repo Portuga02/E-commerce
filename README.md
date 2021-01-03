@@ -127,7 +127,7 @@
         <hr />
         <br>
         <ul>
-            <img src="imgReadme/vscode.png" width="" height="65" style="border-radius: 10px;"> &nbsp;<strong
+            <img src="imgReadme/vscode.png" width="" height="105" style="border-radius: 10px;"> &nbsp;<strong
                 style='text-align:justify;'>&nbsp; Visual Studio Code </strong><br />
         </ul>
     </div>
