@@ -6,7 +6,7 @@
     'aliases' => 
     array (
     ),
-    'reference' => 'c10578895d2871cb0abff1d003e25e36817c2d25',
+    'reference' => '68679570d19919c6f2b6af8b55c2f3fa61234685',
     'name' => 'portuga/ecommerce',
   ),
   'versions' => 
@@ -27,7 +27,7 @@
       'aliases' => 
       array (
       ),
-      'reference' => 'c10578895d2871cb0abff1d003e25e36817c2d25',
+      'reference' => '68679570d19919c6f2b6af8b55c2f3fa61234685',
     ),
     'rain/raintpl' => 
     array (
