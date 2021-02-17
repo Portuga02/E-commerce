@@ -29,7 +29,7 @@ private static $installed = array (
     'aliases' => 
     array (
     ),
-    'reference' => '68679570d19919c6f2b6af8b55c2f3fa61234685',
+    'reference' => 'b5af3bd96ea4bba0133dd6c92366c7540cdd15a1',
     'name' => 'portuga/ecommerce',
   ),
   'versions' => 
@@ -50,7 +50,7 @@ private static $installed = array (
       'aliases' => 
       array (
       ),
-      'reference' => '68679570d19919c6f2b6af8b55c2f3fa61234685',
+      'reference' => 'b5af3bd96ea4bba0133dd6c92366c7540cdd15a1',
     ),
     'rain/raintpl' => 
     array (
